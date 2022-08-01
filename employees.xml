@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+    <Employee>
+        <FullName>Alex</FullName>
+        <Birthday>10041999</Birthday>
+        <employmentDate>17062021</employmentDate>
+        <id>1</id>
+    </Employee>
+    <Employee>
+        <FullName>Boris Jhonson</FullName>
+        <Birthday>1888-03-29</Birthday>
+        <employmentDate>1999-04-10</employmentDate>
+        <id>2</id>
+    </Employee>
+    <Employee>
+        <FullName>Galya Bryakova</FullName>
+        <Birthday>1999-04-30</Birthday>
+        <employmentDate>2021-02-28</employmentDate>
+        <id>3</id>
+    </Employee>
+</Employees>
